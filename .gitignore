@@ -1,0 +1,7 @@
+.venv/
+Gabarito/
+__pycache__/
+*.py[cod]
+.env
+.idea/
+.vscode/
